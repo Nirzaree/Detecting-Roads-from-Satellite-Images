@@ -1,6 +1,9 @@
 # Detecting-Roads-from-Satellite-Images
 
-In this repo, we built a UNet based Deep Learning Model for identifying roads from aerial images of Massachusetts. 
+In this repo, a UNet based Deep Learning Model is built for identifying roads from aerial images of Massachusetts. 
 
 ![](Media/PredictionsRoadSeg1.png)
+
+
+![](Media/PredictionsRoadSeg2.png)
 
